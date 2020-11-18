@@ -257,6 +257,7 @@ FC04=
 FC05=
 FC06=
 FC=
+FD00=<Pokémon>
 FD01=<Player>
 FD02=<Var1>
 FD03=<Var2>
